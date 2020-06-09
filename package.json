@@ -1,0 +1,18 @@
+{
+  "name": "phone-book",
+  "version": "1.0.0",
+  "main": "server-1.js",
+  "scripts": {
+    "start": "nodemon server-2.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^1.0.8",
+    "jshint": "^2.11.1"
+  },
+  "devDependencies": {},
+  "description": ""
+}
